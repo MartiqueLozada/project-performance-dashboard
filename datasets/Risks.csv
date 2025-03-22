@@ -1,0 +1,21 @@
+Task_ID,Project_ID,Risk_Type,Severity_Level,Mitigation_Plan,Impact_Outcome
+12,1,Resource Shortage,Medium,Mitigation plan in progress,Resource reallocation
+4,1,Budget Overrun,High,Mitigation plan in progress,Delayed timeline
+7,1,Supply Chain Delay,Medium,Mitigation plan in progress,Increased cost
+16,2,Staffing Issue,High,Mitigation plan in progress,Resource reallocation
+28,3,Technical Failure,Medium,Mitigation plan in progress,Reduced scope
+27,3,Resource Shortage,Medium,Mitigation plan in progress,Increased cost
+23,3,Resource Shortage,Low,Resolved,Delayed timeline
+37,4,Supply Chain Delay,High,Mitigation plan in progress,Reduced scope
+49,5,Budget Overrun,High,Mitigation plan in progress,Reduced scope
+46,5,Supply Chain Delay,Low,Resolved,Resource reallocation
+61,6,Budget Overrun,High,Mitigation plan in progress,Increased cost
+61,6,Staffing Issue,Low,Resolved,Resource reallocation
+57,6,Technical Failure,Medium,Mitigation plan in progress,Reduced scope
+67,7,Technical Failure,Medium,Mitigation plan in progress,Increased cost
+71,7,Supply Chain Delay,High,Mitigation plan in progress,Resource reallocation
+73,8,Resource Shortage,Medium,Mitigation plan in progress,Resource reallocation
+78,8,Technical Failure,High,Mitigation plan in progress,Resource reallocation
+79,8,Budget Overrun,High,Mitigation plan in progress,Resource reallocation
+92,9,Staffing Issue,Medium,Mitigation plan in progress,Reduced scope
+99,10,Technical Failure,Medium,Mitigation plan in progress,Resource reallocation

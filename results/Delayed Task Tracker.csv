@@ -1,0 +1,11 @@
+Project_ID,Project_Name,Task_Name,Due_Date,Completion_Date,Delay_Days
+1,Apollo Revamp,Infrastructure Setup,6/29/2023,7/9/2023,10
+6,Skyline Redesign,Testing,2/19/2023,2/28/2023,9
+8,Pulse System Overhaul,Cloud Integration,9/13/2023,9/22/2023,9
+4,HyperDrive Expansion,Cloud Integration,3/31/2023,4/8/2023,8
+7,Omega Infrastructure,Final Testing,2/21/2023,3/1/2023,8
+3,Neptune CRM Upgrade,Requirement Gathering,3/15/2023,3/22/2023,7
+8,Pulse System Overhaul,UI/UX Design,8/23/2023,8/30/2023,7
+1,Apollo Revamp,Final Testing,7/19/2023,7/22/2023,3
+5,Quantum Optimization,Security Audit,4/17/2023,4/20/2023,3
+5,Quantum Optimization,Infrastructure Setup,4/1/2023,4/3/2023,2

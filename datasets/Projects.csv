@@ -1,0 +1,11 @@
+Project_ID,Project_Name,Start_Date,End_Date,Actual_End_Date,Budget,Actual_Cost,Status,Project_Manager
+1,Apollo Revamp,5/23/2023,10/17/2023,,139127,155017,Ongoing,Liam Anderson
+2,Orion AI Integration,2/17/2023,6/15/2023,6/15/2023,123360,124593,Completed,Ryan Foster
+3,Neptune CRM Upgrade,2/3/2023,7/22/2023,,164583,157559,Ongoing,Lucas White
+4,HyperDrive Expansion,2/25/2023,6/13/2023,6/13/2023,85296,76275,Completed,Amelia Walker
+5,Quantum Optimization,2/28/2023,6/3/2023,6/3/2023,128833,121183,Completed,Natalie Brooks
+6,Skyline Redesign,1/2/2023,7/21/2023,7/21/2023,109044,107255,Completed,Emily Stewart
+7,Omega Infrastructure,1/5/2023,7/13/2023,,124981,127648,Ongoing,Charlotte Wright
+8,Pulse System Overhaul,7/17/2023,11/24/2023,11/24/2023,67141,72844,Completed,Charlotte Wright
+9,Vertex eCommerce Suite,1/31/2023,8/2/2023,8/2/2023,154021,143664,Completed,Jacob Hayes
+10,Nexus Cloud Migration,2/10/2023,11/11/2023,11/11/2023,61873,86415,Completed,Sophia Martinez
